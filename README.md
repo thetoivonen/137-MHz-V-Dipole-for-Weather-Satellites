@@ -57,9 +57,11 @@ The two unique features of this project are the 3D printed housing, and the NiCo
   
   <li>If you are using o-rings, slip them on the tubing and coax.</li>
   <li>Place silicone sealant in the groove around the 3D printed housing, in the o-ring cavities, and where the coax will sit.  Do this on both halves. </li>
+  <li>Lay the tubing and coax in place, followed by the top half, and install the screws.  I used a c-clamp to gently hold the two halves together while I installed the screws. </li>
 
-![20230711_171335](https://github.com/thetoivonen/137-MHz-V-Dipole-for-Weather-Satellites/assets/18183123/828fddf3-f249-4cfd-ac79-c4b23469174e)
-  
-  <li>Lay everything in place and install the screws.  I used a c-clamp to gently hold the two halves together while I installed the screws. </li>
-  <li>Install whatever connector you're going to use on the other end of your coax.</li>      
+![20230711_171335](https://github.com/thetoivonen/137-MHz-V-Dipole-for-Weather-Satellites/assets/18183123/3d977a86-16d5-4b84-a8ce-92e920d2c5de)
+
+  <li>Install whatever connector you're going to use on the other end of your coax.</li>
+  <li>Install and test.  If you want to you can use an antenna analyzer to fine tune the length, but if you don't have one don't worry about it, it'll be close enough.</li>
+  <li>Don't forget to install the end caps, they aren't just for looks, but to keep bugs and water out of the tubing.</li>
 </ol>
