@@ -63,5 +63,8 @@ The two unique features of this project are the 3D printed housing, and the NiCo
 
   <li>Install whatever connector you're going to use on the other end of your coax.</li>
   <li>Install and test.  If you want to you can use an antenna analyzer to fine tune the length, but if you don't have one don't worry about it, it'll be close enough.</li>
+    <ul>
+      <li>Remember the coax should ideally run horizontally away and perpendicular from the antenna for at least 21" before going in a different direction.  You can experiment to see how much this really matters.</li>
+    </ul>
   <li>Don't forget to install the end caps, they aren't just for looks, but to keep bugs and water out of the tubing.</li>
 </ol>
